@@ -1,10 +1,5 @@
  Gra w Wisielca
 
-Spis Treści
-1. Opis Projektu
-2. Funkcjonalności
-3. Instrukcje Obsługi
-4. Przykładowe Dane Wejściowe
 
 Opis Projektu
 Gra w Wisielca to klasyczna gra, w której użytkownik musi odgadnąć słowo poprzez zgadywanie liter. Projekt został zrealizowany w języku Java z wykorzystaniem biblioteki JavaFX do stworzenia interfejsu graficznego.
