@@ -39,4 +39,4 @@ Gra w Wisielca to klasyczna gra, w której użytkownik musi odgadnąć słowo po
 
 ### Uruchomienie Aplikacji
 1. Sklonuj repozytorium
-https://github.com/MikolajKa89/pp-projekt-gra-w-wisielca.git
+https://github.com/MikolajKa89/Gra-w-Wisielca-Projekt.git
